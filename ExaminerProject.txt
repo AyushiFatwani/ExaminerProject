@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ExaminerProject</title>
+</head>
+<body>
+    <h1>Welcome to ExaminerProject</h1>
+    <p>Information Technology Department</p>
+    <h2>New file created during experiment 3</h2>
+</body>
+</html>
